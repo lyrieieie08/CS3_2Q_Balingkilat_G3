@@ -2,7 +2,7 @@
 This is the project repository for Computer Science 3.
 
 # Lyrie S. Bondoc
-im middle seat
+ i sing 
 
 # Trish Aubrey F. Malaca
 not audrey & i'm beside the wall
