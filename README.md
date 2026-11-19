@@ -4,8 +4,8 @@ This is the project repository for Computer Science 3.
 # BONDOC, Lyrie S.
 cute
 
-# MALACA, Trish Aubrey F.
-auraful
+# Trish Aubrey F. Malaca
+I am the one seated beside the wall.
 
 # PANAHON, Mesiah Gail M.
 kul
