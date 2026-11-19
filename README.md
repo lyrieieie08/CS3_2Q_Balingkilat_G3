@@ -7,5 +7,5 @@ im middle seat
 # Trish Aubrey F. Malaca
 I am the one seated beside the wall.
 
-# PANAHON, Mesiah Gail M.
-kul
+# Mesiah Gail M. Panahon
+"Im a mess" - Bebe Rexha
