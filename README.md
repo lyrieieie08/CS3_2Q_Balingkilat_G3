@@ -2,10 +2,10 @@
 This is the project repository for Computer Science 3.
 
 # BONDOC, Lyrie S.
-- cute
+cute
 
 # MALACA, Trish Aubrey F.
-- auraful
+auraful
 
 # PANAHON, Mesiah Gail M.
-- kul
+kul
