@@ -5,7 +5,7 @@ This is the project repository for Computer Science 3.
 im middle seat
 
 # Trish Aubrey F. Malaca
-I am the one seated beside the wall.
+not audrey & i'm beside the wall
 
 # Mesiah Gail M. Panahon
 "Im a mess" - Bebe Rexha
