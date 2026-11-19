@@ -1,8 +1,8 @@
 # CS3_2Q_Balingkilat_G3
 This is the project repository for Computer Science 3.
 
-# BONDOC, Lyrie S.
-cute
+# Lyrie S. Bondoc
+im middle seat
 
 # Trish Aubrey F. Malaca
 I am the one seated beside the wall.
