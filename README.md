@@ -2,7 +2,7 @@
 This is the project repository for Computer Science 3.
 
 # Lyrie S. Bondoc
- i sing 
+ i sing, i talk, i walk
 
 # Trish Aubrey F. Malaca
 not audrey & i'm beside the wall
